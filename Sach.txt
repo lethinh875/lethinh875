@@ -1,0 +1,7 @@
+001|You're on your own, kid|Chua lanh|Taylor Swift|TS13|13/12/1989|13|10
+002|Nhung ky nguyen cua Taylor Swift|Tai lieu|Taylor Swift|TS13|3/11/2023|1989|9
+003|All the girl you loved before|Ca nhac|Taylor Swift|TS13|13/12/1989|13|8
+004|Giai tich 1 - DH GTVT|Toan hoc|DH GTVT|GD&DT|1/1/2020|325|197
+005|Giai tich 2 - DH GTVT|Toan hoc|DH GTVT|GD&DT|1/1/2020|325|0
+006|Yes, and?|Hoa nhac|Ariana Grande|New York Inc|12/1/2024|5|0
+007|Noi buon cua Mac|Tinh cam|Edison|Thoi dai|11/3/2002|1823|0

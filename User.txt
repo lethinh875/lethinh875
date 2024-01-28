@@ -1,0 +1,2 @@
+71a|admin|123|admin
+51b|thinh|111|user
